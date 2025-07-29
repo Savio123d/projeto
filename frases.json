@@ -1,0 +1,77 @@
+[
+  {
+    "nome": "Aatrox",
+    "titulo": "A Espada Darkin",
+    "frase": "Agora, ouçam o silêncio da aniquilação."
+  },
+  {
+    "nome": "Ahri",
+    "titulo": "A Raposa de Nove Caudas",
+    "frase": "Você não confia em mim?"
+  },
+  {
+    "nome": "Akali",
+    "titulo": "A Assassina Renegada",
+    "frase": "Tema a assassina sem mestre."
+  },
+  {
+    "nome": "Akshan",
+    "titulo": "O Sentinela Rebelde",
+    "frase": "Os bandidos que se cuidem — Akshan chegou."
+  },
+  {
+    "nome": "Alistar",
+    "titulo": "O Minotauro",
+    "frase": "Nada pode me deter."
+  },
+  {
+    "nome": "Amumu",
+    "titulo": "A Múmia Triste",
+    "frase": "Você quer ser meu amigo?"
+  },
+  {
+    "nome": "Anivia",
+    "titulo": "A Criofênix",
+    "frase": "Em minhas asas."
+  },
+  {
+    "nome": "Annie",
+    "titulo": "A Criança Sombria",
+    "frase": "Você quer brincar também? Vai ser divertido!"
+  },
+  {
+    "nome": "Aphelios",
+    "titulo": "A Arma dos Devotos",
+    "frase": "Nossa fé será testada."
+  },
+  {
+    "nome": "Ashe",
+    "titulo": "A Arqueira do Gelo",
+    "frase": "Tudo ao alcance de uma flecha."
+  },
+  {
+    "nome": "Aurelion Sol",
+    "titulo": "O Forjador de Estrelas",
+    "frase": "Curvem-se diante do Forjador de Estrelas."
+  },
+  {
+    "nome": "Azir",
+    "titulo": "O Imperador das Areias",
+    "frase": "Shurima! Seu imperador voltou!"
+  },
+  {
+    "nome": "Bardo",
+    "titulo": "O Protetor Andarilho",
+    "frase": "Bardo não fala — apenas emite sons etéreos."
+  },
+  {
+    "nome": "Blitzcrank",
+    "titulo": "O Grande Golem a Vapor",
+    "frase": "Pronto para serviço."
+  },
+  {
+    "nome": "Brand",
+    "titulo": "A Vingança Flamejante",
+    "frase": "Este lugar vai queimar!"
+  }
+]
