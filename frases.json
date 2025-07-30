@@ -7,7 +7,7 @@
   {
     "nome": "Ahri",
     "titulo": "A Raposa de Nove Caudas",
-    "frase": "Você não confia em mim?"
+    "frase": "Se acha esperto, não é mesmo?"
   },
   {
     "nome": "Akali",
@@ -73,5 +73,40 @@
     "nome": "Brand",
     "titulo": "A Vingança Flamejante",
     "frase": "Este lugar vai queimar!"
+  },
+  {
+    "nome": "Braum",
+    "titulo": "O Coração de Freljord",
+    "frase": "Coração é o músculo mais forte!"
+  },
+  {
+  "nome": "Caitlyn",
+  "titulo": "A Xerife de Piltover",
+  "frase": "O bem sempre prevalece em Piltover."
+}, 
+{
+    "nome": "Camille",
+    "titulo": "A Sombra de Aço",
+    "frase": "Precisão é a diferença entre um açougueiro e um cirurgião."
+  },
+  {
+    "nome": "Cassiopeia",
+    "titulo": "O Abraço da Serpente",
+    "frase": "Não existe antídoto para mim."
+  },
+  {
+    "nome": "Cho’Gath",
+    "titulo": "O Terror do Vazio",
+    "frase": "Você desejaria que o mundo que conhece chegasse ao fim! Siiimm..."
+  },
+  {
+    "nome": "Corki",
+    "titulo": "O Bombardeiro Ousado",
+    "frase": "Estou pronto para a missão e trouxe minha máquina de aces!"
+  },
+  {
+    "nome": "Darius",
+    "titulo": "A Mão de Noxus",
+    "frase": "Eles vão se arrepender de terem me enfrentado."
   }
 ]
