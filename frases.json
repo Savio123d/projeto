@@ -108,14 +108,13 @@
     "nome": "Darius",
     "titulo": "A Mão de Noxus",
     "frase": "Eles vão se arrepender de terem me enfrentado."
-  },
+   },
   {
     "nome": "Diana",
     "titulo": "O Escárnio da Lua",
     "frase": "A lua nova está nascendo."
   },
   {
-    
     "nome": "Dr. Mundo",
     "titulo": "O Louco de Zaun",
     "frase": "Mundo vai para onde quer!"
@@ -219,14 +218,13 @@
     "nome": "Ivern",
     "titulo": "O Pai do Verde",
     "frase": "Qual a sua cor favorita? A minha é a primavera."
-  },
+    },
   {
     "nome": "Janna",
     "titulo": "A Fúria da Tormenta",
     "frase": "O poder da tempestade está com você."
   },
   {
-    
     "nome": "Jarvan IV",
     "titulo": "O Exemplo de Demacia",
     "frase": "Pelo meu pai, o Rei!"
