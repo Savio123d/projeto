@@ -83,8 +83,8 @@
   "nome": "Caitlyn",
   "titulo": "A Xerife de Piltover",
   "frase": "O bem sempre prevalece em Piltover."
-}, 
-{
+ }, 
+ {
     "nome": "Camille",
     "titulo": "A Sombra de Aço",
     "frase": "Precisão é a diferença entre um açougueiro e um cirurgião."
@@ -108,5 +108,683 @@
     "nome": "Darius",
     "titulo": "A Mão de Noxus",
     "frase": "Eles vão se arrepender de terem me enfrentado."
+  },
+  {
+    "nome": "Diana",
+    "titulo": "O Escárnio da Lua",
+    "frase": "A lua nova está nascendo."
+  },
+  {
+    
+    "nome": "Dr. Mundo",
+    "titulo": "O Louco de Zaun",
+    "frase": "Mundo vai para onde quer!"
+  },
+  {
+    "nome": "Draven",
+    "titulo": "O Carrasco de Noxus",
+    "frase": "Bem-vindos ao League of Draven."
+  },
+  {
+    "nome": "Ekko",
+    "titulo": "O Rapaz que Estilhaçou o Tempo",
+    "frase": "O lance não é quanto tempo você tem. É como você usa."
+  },
+  {
+    "nome": "Elise",
+    "titulo": "A Aranha Rainha",
+    "frase": "Chegue mais perto, eu não mordo."
+  },
+  {
+    "nome": "Evelynn",
+    "titulo": "O Abraço da Agonia",
+    "frase": "Sabe, no escurinho é melhor."
+  },
+  {
+    "nome": "Ezreal",
+    "titulo": "O Explorador Prodígio",
+    "frase": "Hora de uma verdadeira demonstração de habilidade!"
+  },
+  {
+    "nome": "Fiddlesticks",
+    "titulo": "O Terror Ancestral",
+    "frase": "Tenho medo..."
+  },
+  {
+    "nome": "Fiora",
+    "titulo": "A Grande Duelista",
+    "frase": "Eu anseio por um oponente à altura."
+  },
+  {
+    "nome": "Fizz",
+    "titulo": "O Trapaceiro das Marés",
+    "frase": "Tubarão!"
+  },
+  {
+    "nome": "Galio",
+    "titulo": "O Colosso",
+    "frase": "É hora de socar!"
+  },
+  {
+    "nome": "Gangplank",
+    "titulo": "O Terror dos Doze Mares",
+    "frase": "Eu renasci do sal e do mar."
+  },
+  {
+    "nome": "Garen",
+    "titulo": "O Poder de Demacia",
+    "frase": "Pela Demácia!"
+  },
+  {
+    "nome": "Gnar",
+    "titulo": "O Yordle Pré-Histórico",
+    "frase": "Gnar!"
+  },
+  {
+    "nome": "Gragas",
+    "titulo": "O Badernista",
+    "frase": "Se é você que vai pagar, eu tô dentro!"
+  },
+  {
+    "nome": "Graves",
+    "titulo": "O Foragido",
+    "frase": "Acabou a brincadeira."
+  },
+  {
+    "nome": "Gwen",
+    "titulo": "A Costureira Encantada",
+    "frase": "Tesouras, agulhas e linha! Ah, que alegria!"
+  },
+  {
+    "nome": "Hecarim",
+    "titulo": "A Sombra da Guerra",
+    "frase": "Sofram, como eu sofri!"
+  },
+  {
+    "nome": "Heimerdinger",
+    "titulo": "O Inventor Idolatrado",
+    "frase": "Eureka!"
+  },
+  {
+    "nome": "Illaoi",
+    "titulo": "A Sacerdotisa Cráquem",
+    "frase": "Eu não sou fã de 'sermões'. Aulas práticas são bem melhores."
+  },
+  {
+    "nome": "Irelia",
+    "titulo": "A Dançarina das Lâminas",
+    "frase": "Lutarei pelos que não podem."
+  },
+  {
+    "nome": "Ivern",
+    "titulo": "O Pai do Verde",
+    "frase": "Qual a sua cor favorita? A minha é a primavera."
+  },
+  {
+    "nome": "Janna",
+    "titulo": "A Fúria da Tormenta",
+    "frase": "O poder da tempestade está com você."
+  },
+  {
+    
+    "nome": "Jarvan IV",
+    "titulo": "O Exemplo de Demacia",
+    "frase": "Pelo meu pai, o Rei!"
+  },
+  {
+    "nome": "Jax",
+    "titulo": "O Grão-Mestre das Armas",
+    "frase": "Hora de acender a luz!"
+  },
+  {
+    "nome": "Jayce",
+    "titulo": "O Defensor do Amanhã",
+    "frase": "Martelo na mão, e o futuro será brilhante."
+  },
+  {
+    "nome": "Jhin",
+    "titulo": "O Virtuoso",
+    "frase": "No massacre, eu floresço como uma flor no amanhecer."
+  },
+  {
+    "nome": "Jinx",
+    "titulo": "O Gatilho Desenfreado",
+    "frase": "Regras são feitas para serem quebradas... igual prédios! Ou pessoas!"
+  },
+  {
+    "nome": "Kai'Sa",
+    "titulo": "A Filha do Vazio",
+    "frase": "Perdão e esquecimento? O Vazio não conhece nenhum dos dois."
+  },
+  {
+    "nome": "Kalista",
+    "titulo": "A Lança da Vingança",
+    "frase": "A morte é uma benção para os traidores."
+  },
+  {
+    "nome": "Karma",
+    "titulo": "A Iluminada",
+    "frase": "Sempre confie em seu espírito."
+  },
+  {
+    "nome": "Karthus",
+    "titulo": "A Voz Mortal",
+    "frase": "A agonia é o começo da vida."
+  },
+  {
+    "nome": "Kassadin",
+    "titulo": "O Andarilho do Vazio",
+    "frase": "O equilíbrio da força deve ser preservado."
+  },
+  {
+    "nome": "Katarina",
+    "titulo": "A Lâmina Sinistra",
+    "frase": "A violência resolve tudo."
+  },
+  {
+    "nome": "Kayle",
+    "titulo": "A Justa",
+    "frase": "Os culpados conhecerão a agonia."
+  },
+  {
+    "nome": "Kayn",
+    "titulo": "O Ceifador das Sombras",
+    "frase": "Você provará ser digno... ou morrerá."
+  },
+  {
+    "nome": "Kennen",
+    "titulo": "O Coração da Tempestade",
+    "frase": "O olho do furacão."
+  },
+  {
+    "nome": "Kha'Zix",
+    "titulo": "O Ceifador do Vazio",
+    "frase": "Mudar é bom."
+  },
+  {
+    "nome": "Kindred",
+    "titulo": "Os Caçadores Eternos",
+    "frase": "Nunca um sem o outro."
+  },
+  {
+    "nome": "Kled",
+    "titulo": "O Cavaleiro Intratável",
+    "frase": "Covardes! Vou arrancar seus fígados!"
+  },
+  {
+    "nome": "Kog'Maw",
+    "titulo": "A Boca do Abismo",
+    "frase": "Papai está vindo!"
+  },
+  {
+    "nome": "LeBlanc",
+    "titulo": "A Farsante",
+    "frase": "A Rosa Negra irá florescer novamente."
+  },
+  {
+    "nome": "Lee Sin",
+    "titulo": "O Monge Cego",
+    "frase": "Sua vontade, minhas mãos."
+  },
+  {
+    "nome": "Leona",
+    "titulo": "A Alvorada Radiante",
+    "frase": "O sol sempre nasce."
+  },
+  {
+    "nome": "Lillia",
+    "titulo": "O Florir Receoso",
+    "frase": "Sonhos são jardins secretos que precisam de cuidado para florescer."
+  },
+  {
+    "nome": "Lissandra",
+    "titulo": "A Bruxa Gélida",
+    "frase": "O gelo não perdoa."
+  },
+  {
+    "nome": "Lucian",
+    "titulo": "O Purificador",
+    "frase": "Todos morrem. Eu apenas faço acontecer mais rápido."
+  },
+  {
+    "nome": "Lulu",
+    "titulo": "A Fada Feiticeira",
+    "frase": "Aquele gostinho roxo..."
+  },
+  {
+    "nome": "Lux",
+    "titulo": "A Dama da Luz",
+    "frase": "Vamos iluminar tudo isso!"
+  },
+  {
+    "nome": "Malphite",
+    "titulo": "O Fragmento do Monolito",
+    "frase": "Pode bater."
+  },
+  {
+    "nome": "Malzahar",
+    "titulo": "O Profeta do Vazio",
+    "frase": "O oblívio o aguarda!"
+  },
+  {
+    "nome": "Maokai",
+    "titulo": "O Ente Sinistro",
+    "frase": "Eu vou levar sua força até que você não seja nada."
+  },
+  {
+    "nome": "Master Yi",
+    "titulo": "O Espadachim Wuju",
+    "frase": "A dúvida é o maior inimigo."
+  },
+  {
+    "nome": "Miss Fortune",
+    "titulo": "A Caçadora de Recompensas",
+    "frase": "Quanto maior o risco, maior a recompensa."
+  },
+  {
+    "nome": "Mordekaiser",
+    "titulo": "O Revenã de Ferro",
+    "frase": "O destino, a dominação, a trapaça."
+  },
+  {
+    "nome": "Morgana",
+    "titulo": "A Caída",
+    "frase": "Nós vamos trazer a eles grande sofrimento."
+  },
+  {
+    "nome": "Nami",
+    "titulo": "A Conjuradora das Marés",
+    "frase": "Eu decido o que a maré trará."
+  },
+  {
+    "nome": "Nasus",
+    "titulo": "O Curador das Areias",
+    "frase": "O ciclo da vida e da morte continua. Nós viveremos, eles morrerão."
+  },
+  {
+    "nome": "Nautilus",
+    "titulo": "O Titã das Profundezas",
+    "frase": "Avante."
+  },
+  {
+    "nome": "Neeko",
+    "titulo": "A Camaleoa Curiosa",
+    "frase": "Neeko é o melhor camaleão!"
+  },
+  {
+    "nome": "Nidalee",
+    "titulo": "A Caçadora Bestial",
+    "frase": "Os selvagens não conhecem misericórdia."
+  },
+  {
+    "nome": "Nocturne",
+    "titulo": "O Eterno Pesadelo",
+    "frase": "Escuridão..."
+  },
+  {
+    "nome": "Nunu e Willump",
+    "titulo": "O Garoto e seu Yeti",
+    "frase": "Vamos lá, Willump! A aventura nos chama!"
+  },
+  {
+    "nome": "Olaf",
+    "titulo": "O Berserker",
+    "frase": "Deixe-me em paz!"
+  },
+  {
+    "nome": "Orianna",
+    "titulo": "A Donzela Mecânica",
+    "frase": "Nós vamos matar seus inimigos. Vai ser divertido."
+  },
+  {
+    "nome": "Ornn",
+    "titulo": "O Fogo sob a Montanha",
+    "frase": "Bom trabalho começa com boas ferramentas."
+  },
+  {
+    "nome": "Pantheon",
+    "titulo": "A Lança Indestrutível",
+    "frase": "Mesmo na derrota, eu renasço."
+  },
+  {
+    "nome": "Poppy",
+    "titulo": "A Guardiã do Martelo",
+    "frase": "Não sou uma heroína. Sou só uma yordle com um martelo."
+  },
+  {
+    "nome": "Pyke",
+    "titulo": "O Estripador das Águas Sangrentas",
+    "frase": "Afundou com o resto."
+  },
+  {
+    "nome": "Qiyana",
+    "titulo": "A Imperatriz dos Elementos",
+    "frase": "Eu sou a maior que eles já viram, e a maior que eles verão."
+  },
+  {
+    "nome": "Quinn",
+    "titulo": "As Asas de Demácia",
+    "frase": "Justiça toma asas."
+  },
+  {
+    "nome": "Rakan",
+    "titulo": "O Charmoso",
+    "frase": "É hora do show! A plateia da Primeira Estrela precisa de um espetáculo."
+  },
+  {
+    "nome": "Rammus",
+    "titulo": "O Tatu Blindado",
+    "frase": "Ok."
+  },
+  {
+    "nome": "Rek'Sai",
+    "titulo": "A Escavadora do Vazio",
+    "frase": "*Grito agudo e gutural*"
+  },
+  {
+    "nome": "Rell",
+    "titulo": "A Dama do Ferro",
+    "frase": "Eu vou quebrar todos eles."
+  },
+  {
+    "nome": "Renekton",
+    "titulo": "O Carniceiro das Areias",
+    "frase": "Enquanto eu viver, todos morrerão!"
+  },
+  {
+    "nome": "Rengar",
+    "titulo": "O Acossador da Alcateia",
+    "frase": "Esta noite, nós caçamos!"
+  },
+  {
+    "nome": "Riven",
+    "titulo": "A Exilada",
+    "frase": "O que está quebrado pode ser reforjado!"
+  },
+  {
+    "nome": "Rumble",
+    "titulo": "A Ameaça Mecânica",
+    "frase": "Vamos para a briga!"
+  },
+  {
+    "nome": "Ryze",
+    "titulo": "O Mago Rúnico",
+    "frase": "Um passo à frente do cataclismo."
+  },
+  {
+    "nome": "Samira",
+    "titulo": "A Rosa do Deserto",
+    "frase": "Quer emoção? Veio ao lugar certo."
+  },
+  {
+    "nome": "Sejuani",
+    "titulo": "A Ira do Inverno",
+    "frase": "O inverno é tudo o que nos resta."
+  },
+  {
+    "nome": "Senna",
+    "titulo": "A Redentora",
+    "frase": "E aí, parças? Não somos as coisas mais bonitas que já viram?"
+  },
+  {
+    "nome": "Seraphine",
+    "titulo": "A Cantadora Sonhadora",
+    "frase": "Quando todo mundo escuta, a harmonia acontece."
+  },
+  {
+    "nome": "Sett",
+    "titulo": "O Chefe",
+    "frase": "Eu sou o rei da arena."
+  },
+  {
+    "nome": "Shaco",
+    "titulo": "O Bufão Demoníaco",
+    "frase": "Que tal um truque de mágica?"
+  },
+  {
+    "nome": "Shen",
+    "titulo": "O Olho do Crepúsculo",
+    "frase": "Um julgamento ponderado."
+  },
+  {
+    "nome": "Shyvana",
+    "titulo": "A Meio-Dragão",
+    "frase": "Eles me testaram. Eles não estão mais entre nós."
+  },
+  {
+    "nome": "Singed",
+    "titulo": "O Químico Louco",
+    "frase": "Que tal uma bebida?"
+  },
+  {
+    "nome": "Sion",
+    "titulo": "O Colosso Morto-Vivo",
+    "frase": "Guerra... Eterna."
+  },
+  {
+    "nome": "Sivir",
+    "titulo": "A Mestra da Batalha",
+    "frase": "Eu luto pelo futuro. E me pagam bem por isso."
+  },
+  {
+    "nome": "Skarner",
+    "titulo": "A Vanguarda de Cristal",
+    "frase": "Meu ferrão trará a sua morte!"
+  },
+  {
+    "nome": "Sona",
+    "titulo": "A Mestra das Cordas",
+    "frase": "(Música etérea)"
+  },
+  {
+    "nome": "Soraka",
+    "titulo": "A Filha das Estrelas",
+    "frase": "Enquanto eu viver, ninguém sofrerá."
+  },
+  {
+    "nome": "Swain",
+    "titulo": "O Mestre da Estratégia",
+    "frase": "Por Noxus, eu comando."
+  },
+  {
+    "nome": "Sylas",
+    "titulo": "O Abjugado",
+    "frase": "Chega de jaulas!"
+  },
+  {
+    "nome": "Syndra",
+    "titulo": "A Soberana Sombria",
+    "frase": "Tanto poder inexplorado!"
+  },
+  {
+    "nome": "Tahm Kench",
+    "titulo": "O Rei do Rio",
+    "frase": "O mundo é um rio, e eu sou seu rei."
+  },
+  {
+    "nome": "Taliyah",
+    "titulo": "A Tecelã de Pedras",
+    "frase": "Conheça o tear, conheça a tecelã."
+  },
+  {
+    "nome": "Talon",
+    "titulo": "A Sombra da Lâmina",
+    "frase": "Viva e morra pela lâmina."
+  },
+  {
+    "nome": "Taric",
+    "titulo": "O Escudo de Valoran",
+    "frase": "A beleza está em toda parte."
+  },
+  {
+    "nome": "Teemo",
+    "titulo": "O Explorador Veloz",
+    "frase": "Capitão Teemo no comando!"
+  },
+  {
+    "nome": "Thresh",
+    "titulo": "O Guardião das Correntes",
+    "frase": "Que deleite de agonia vamos infligir?"
+  },
+  {
+    "nome": "Tristana",
+    "titulo": "A Artilheira Yordle",
+    "frase": "Vamos lá, vamos explodir alguma coisa!"
+  },
+  {
+    "nome": "Trundle",
+    "titulo": "O Rei dos Trolls",
+    "frase": "Hora de trolar!"
+  },
+  {
+    "nome": "Tryndamere",
+    "titulo": "O Rei Bárbaro",
+    "frase": "Minha mão direita está muito mais forte que a esquerda!"
+  },
+  {
+    "nome": "Twisted Fate",
+    "titulo": "O Mestre das Cartas",
+    "frase": "A sorte sempre me sorri."
+  },
+  {
+    "nome": "Twitch",
+    "titulo": "O Semeador da Peste",
+    "frase": "Eu estava me escondendo!"
+  },
+  {
+    "nome": "Udyr",
+    "titulo": "O Andarilho Espiritual",
+    "frase": "Nossa fúria está além do seu controle."
+  },
+  {
+    "nome": "Urgot",
+    "titulo": "O Encouraçado",
+    "frase": "Você não pode me deter."
+  },
+  {
+    "nome": "Varus",
+    "titulo": "A Flecha da Vingança",
+    "frase": "Cuidado com o homem que não tem nada a perder."
+  },
+  {
+    "nome": "Vayne",
+    "titulo": "A Caçadora Noturna",
+    "frase": "Vamos caçar aqueles que caíram na escuridão."
+  },
+  {
+    "nome": "Veigar",
+    "titulo": "O Pequeno Mestre do Mal",
+    "frase": "Eu sou mau! Parem de rir!"
+  },
+  {
+    "nome": "Vel'Koz",
+    "titulo": "O Olho do Vazio",
+    "frase": "Conhecimento através da desintegração."
+  },
+  {
+    "nome": "Vex",
+    "titulo": "A Melancolista",
+    "frase": "Ah, qual é? Pra quê tanta cor?"
+  },
+  {
+    "nome": "Vi",
+    "titulo": "A Defensora de Piltover",
+    "frase": "Primeiro a gente soca, depois pergunta."
+  },
+  {
+    "nome": "Viego",
+    "titulo": "O Rei Destruído",
+    "frase": "Sem ela, não há nada. Só a ruína."
+  },
+  {
+    "nome": "Viktor",
+    "titulo": "O Arauto das Máquinas",
+    "frase": "Junte-se à gloriosa evolução."
+  },
+  {
+    "nome": "Vladimir",
+    "titulo": "O Sanguinário Escarlate",
+    "frase": "O rio escarlate corre."
+  },
+  {
+    "nome": "Volibear",
+    "titulo": "O Rugido do Trovão",
+    "frase": "Sinta o poder da tempestade!"
+  },
+  {
+    "nome": "Warwick",
+    "titulo": "A Ira Descontrolada de Zaun",
+    "frase": "O sangue deles, o nosso banquete."
+  },
+  {
+    "nome": "Wukong",
+    "titulo": "O Macaco Rei",
+    "frase": "Vou lhes mostrar o verdadeiro poder!"
+  },
+  {
+    "nome": "Xayah",
+    "titulo": "A Rebelde",
+    "frase": "Eu protejo quem eu amo. E a Primeira Estrela nos protege."
+  },
+  {
+    "nome": "Xerath",
+    "titulo": "O Mago Ascendente",
+    "frase": "Eu serei livre!"
+  },
+  {
+    "nome": "Xin Zhao",
+    "titulo": "O Senescal de Demácia",
+    "frase": "A morte é inevitável, só pode ser evitada."
+  },
+  {
+    "nome": "Yasuo",
+    "titulo": "O Imperdoável",
+    "frase": "Morte é como o vento, sempre ao meu lado."
+  },
+  {
+    "nome": "Yone",
+    "titulo": "O Inesquecido",
+    "frase": "Uma máscara não pode esconder as cicatrizes da alma."
+  },
+  {
+    "nome": "Yorick",
+    "titulo": "O Pastor de Almas",
+    "frase": "Não tema a morte, tema a mim."
+  },
+  {
+    "nome": "Yuumi",
+    "titulo": "A Gata Mágica",
+    "frase": "Eu e você, podemos fazer isso!"
+  },
+  {
+    "nome": "Zac",
+    "titulo": "A Arma Secreta",
+    "frase": "Eu fui feito pra isso... literalmente."
+  },
+  {
+    "nome": "Zed",
+    "titulo": "O Mestre das Sombras",
+    "frase": "A lâmina que não se vê é a mais mortífera."
+  },
+  {
+    "nome": "Ziggs",
+    "titulo": "O Especialista em Hexplosivos",
+    "frase": "Isso vai ser uma explosão!"
+  },
+  {
+    "nome": "Zilean",
+    "titulo": "O Guardião do Tempo",
+    "frase": "O tempo é uma maré, não uma corrente."
+  },
+  {
+    "nome": "Zoe",
+    "titulo": "O Aspecto do Crepúsculo",
+    "frase": "Isso vai ser tão divertido!"
+  },
+  {
+    "nome": "Zyra",
+    "titulo": "A Ascensão dos Espinhos",
+    "frase": "Sinta o abraço dos espinhos."
   }
+]
 ]
